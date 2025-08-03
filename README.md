@@ -9,6 +9,7 @@ Three python note books are attached as shown below:
 The proposed code is for Shufflenet-v2 + Transformer model.
 
 It contains three types of blocks:
+
 1.Shufflenet v2 block
 2.Shufflenet unit block
 3.Transformer block
